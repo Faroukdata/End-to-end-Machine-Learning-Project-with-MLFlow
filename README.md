@@ -42,7 +42,7 @@ dagshub
 
 MLFLOW_TRACKING_URI=https://dagshub.com/Faroukdata/End-to-end-Machine-Learning-Project-with-MLFlow.mlflow
 MLFLOW_TRACKING_USERNAME=Faroukdata
-MLFLOW_TRACKING_PASSWORD=77cb844a2b07d87d5c016a6d91131f4e2c339464
+MLFLOW_TRACKING_PASSWORD=<yourpassword>
 python script.py
 
 Run this to export as env variables:
@@ -51,4 +51,11 @@ set MLFLOW_TRACKING_URI=https://dagshub.com/Faroukdata/End-to-end-Machine-Learni
 
 set MLFLOW_TRACKING_USERNAME=Faroukdata
 
-set MLFLOW_TRACKING_PASSWORD=77cb844a2b07d87d5c016a6d91131f4e2c339464
+set MLFLOW_TRACKING_PASSWORD=<yourpassword>
+
+
+#app.py
+Html example from getbootstrap.com
+
+web app to docker image deploy to container registry (azure)
+
